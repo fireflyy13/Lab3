@@ -1,0 +1,10 @@
+C:\Users\roman\source\repos\Lab3TA\Lab3TA\bin\Debug\Lab3TA.exe.config
+C:\Users\roman\source\repos\Lab3TA\Lab3TA\bin\Debug\Lab3TA.exe
+C:\Users\roman\source\repos\Lab3TA\Lab3TA\bin\Debug\Lab3TA.pdb
+C:\Users\roman\source\repos\Lab3TA\Lab3TA\obj\Debug\Lab3TA.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\Lab3TA\Lab3TA\obj\Debug\Lab3TA.Form1.resources
+C:\Users\roman\source\repos\Lab3TA\Lab3TA\obj\Debug\Lab3TA.Properties.Resources.resources
+C:\Users\roman\source\repos\Lab3TA\Lab3TA\obj\Debug\Lab3TA.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\Lab3TA\Lab3TA\obj\Debug\Lab3TA.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\Lab3TA\Lab3TA\obj\Debug\Lab3TA.exe
+C:\Users\roman\source\repos\Lab3TA\Lab3TA\obj\Debug\Lab3TA.pdb
